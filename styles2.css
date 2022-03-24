@@ -1,0 +1,47 @@
+Styles.css
+
+* {
+    background-color: grey;
+}
+body{
+    
+    background:#e6e3e3;
+    margin:0;
+}
+header{
+    margin-right: 0px;
+    background: white;
+    padding: 10px;
+    text-align: center;
+}
+header h1{
+    margin:0;
+}
+div.post{
+    background: white;
+    margin:auto;
+    width: 400px;
+    height: 450px;
+}
+div.post img{
+    width: 100%;
+    margin-top:5px ;
+    height: 300px;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:40px;
+    padding: 5px;
+    height: 30px;
+}
+span{
+    color: grey;
+}
+.comentario{
+    padding: 5px;
+    height: 10px;
+}
+
+
